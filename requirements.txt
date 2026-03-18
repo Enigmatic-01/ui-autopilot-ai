@@ -1,0 +1,11 @@
+langchain_core
+langchain_classic
+langchain_community 
+langchain
+langgraph 
+pydantic 
+langchain_openai 
+grandalf
+python-dotenv
+IPython
+langsmith
